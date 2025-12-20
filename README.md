@@ -1,9 +1,5 @@
 <h2 align="left">Hi 👋! My name is momo and I'm a dev, from jordan</h2>
 
-###
-
-
-
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=momonoski55555&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
@@ -24,7 +20,14 @@
   <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=blender" height="30" alt="blender logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=flutter" height="30" alt="flutter logo"  />
 </div>
+
+godot about a 100 hours in it released 2 projects
+blender i have been using on and of for 7 years
+flutter been using it for about 2 years in my businesses
+
 
 ###
 
