@@ -1,7 +1,9 @@
 <h2 align="left">Hi 👋! My name is momo and I'm a developer, from jordan</h2>
 
+passionate about games and AI.
+pushing boundaries, finding new ways of telling stories,and redifining genre's.
 
-# Tools i have fimiliarity with. 
+# Tools i used. 
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=rust" height="30" alt="rust logo"  />
@@ -21,13 +23,14 @@
 
 godot about a 100 hours in it released 2 projects but i have had been using it since the release fo 3.x
 
-blender i have been using on and of since 2017
+blender i have been using on and of since 2017 made some games with it back when it had game engine specifically 2.7, did some hard surface stuff look in the twitter for models.
 
-flutter been using it for about since 2022 for personnal and business cases
+flutter been using it for about since 2022 for personnal and business cases.
 
-i have known rust for since 2023 
+i have known rust for since 2023, have had used it occasionally ,used it with godot worked fine kind of but i did use it in McM.
 
-I have modded games such as medieval 2 total war, stalker anomaly. 
+I have modded games such as medieval 2 total war, stalker anomaly.
+
 
 
 ###
