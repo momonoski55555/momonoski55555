@@ -27,13 +27,16 @@ blender i have been using on and of since 2017 made some games with it back when
 
 flutter been using it for about since 2022 for personnal and business cases.
 
+i use supabase for my business been using it since 2024.
+
 i have known rust for since 2023, have had used it occasionally ,used it with godot worked fine kind of but i did use it in McM.
 
 I have modded games such as medieval 2 total war, stalker anomaly.
 
+# AI
 
+i did use comfyui and i am planning to train my own model. i use Roo code. check the repo in my profile for mode config and system prompt
 
-###
 
 <div align="left">
   <a href="https://x.com/momono_ski" target="_blank">
