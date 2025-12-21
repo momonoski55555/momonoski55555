@@ -1,7 +1,5 @@
 <h2 align="left">Hi 👋! My name is momo and I'm a developer, from jordan</h2>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=momonoski55555&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
 
 # Tools i have fimiliarity with. 
 
@@ -41,4 +39,7 @@ I have modded games such as medieval 2 total war, stalker anomaly.
 </div>
 
 ###
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=momonoski55555&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
