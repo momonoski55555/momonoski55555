@@ -1,5 +1,5 @@
 <h2 align="center
-  ">Hi 👋! My name is momo and I'm a developer, from jordan</h2>
+  "> developer from jordan\n</h2>
 
 passionate about games and AI.
 pushing boundaries, finding new ways of telling stories,and redifining genre's.
