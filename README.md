@@ -14,6 +14,11 @@ gamedev and profiecient in Webdev and Ai assist workflows.
 </div>
 
 
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=50&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
+
+
 #### my Experince with Godot.
 3 years.
 released 2 games in it.
@@ -33,17 +38,6 @@ i have known rust for since 2023, have had used it occasionally ,used it with go
 
 #### my Experince with Modding.
 I have modded games such as medieval 2 total war, stalker anomaly.
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=50&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
-
-<div align="center">
-  <a href="https://x.com/momono_ski" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-  </a>
-</div>
-
 
 
 
