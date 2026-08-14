@@ -1,15 +1,14 @@
 <h2 align="center
-  "> developer from jordan\n</h2>
+  "> developer from jordan </h2>
 
-passionate about games and AI.
-pushing boundaries, finding new ways of telling stories,and redifining genre's.
+gamedev and profiecient in Webdev and Ai assist workflows.
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
   <img width="24" />
   <img src="https://skillicons.dev/icons?i=godot" height="60" alt="godot logo"  />
   <img width="24" />
-  <img src="https://skillicons.dev/icons?i=blender" height="60" alt="blender logo"  />
+  <img src="https://skillicons.dev/icons?i=PHP" height="60" alt="blender logo"  />
   <img width="24" />
   <img src="https://skillicons.dev/icons?i=flutter" height="60" alt="flutter logo"  />
 </div>
