@@ -24,9 +24,6 @@ gamedev and profiecient in Webdev and Ai assist workflows.
 released 2 games in it.
 check my games in https://momonoski555.itch.io/
 
-#### my Experince with Blender.
-blender i have been using on and of since 2017 made some games with it back when it had game engine specifically 2.7, did some hard surface stuff look in the twitter for models.
-
 #### my Experince with Futter.
 2 years.
 
@@ -36,8 +33,6 @@ i use supabase for my business been using it since 2024.
 #### my Experince with Rust.
 i have known rust for since 2023, have had used it occasionally ,used it with godot worked fine kind of but i did use it in McM.
 
-#### my Experince with Modding.
-I have modded games such as medieval 2 total war, stalker anomaly.
 
 
 
