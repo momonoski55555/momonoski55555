@@ -8,7 +8,7 @@ gamedev and profiecient in Webdev and Ai assist workflows.
   <img width="24" />
   <img src="https://skillicons.dev/icons?i=godot" height="60" alt="godot logo"  />
   <img width="24" />
-  <img src="https://skillicons.dev/icons?i=PHP" height="60" alt="blender logo"  />
+  <img src="https://skillicons.dev/icons?i=phps" height="60" alt="blender logo"  />
   <img width="24" />
   <img src="https://skillicons.dev/icons?i=flutter" height="60" alt="flutter logo"  />
 </div>
