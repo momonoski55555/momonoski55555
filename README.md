@@ -1,38 +1,43 @@
-<h2 align="center
-  "> developer from jordan </h2>
+<div align="center">
 
-gamedev and profiecient in Webdev and Ai assist workflows.
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=header&text=Game%20%26%20Web%20Developer&fontSize=40&fontColor=FFFFFF&fontAlignY=40&desc=Based%20in%20Jordan&descSize=18&descAlignY=62&theme=cobalt" width="100%" alt="Header banner" />
+
+</div>
+
+## 👋 About Me
+
+I'm a developer from Jordan specializing in **game development**, with strong experience in **web development** and **AI-assisted workflows**. I build and ship real products, from games released on itch.io to backends powering my own business.
+
+## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
-  <img width="24" />
-  <img src="https://skillicons.dev/icons?i=godot" height="60" alt="godot logo"  />
-  <img width="24" />
-  <img src="https://skillicons.dev/icons?i=php" height="60" alt="blender logo"  />
-  <img width="24" />
-  <img src="https://skillicons.dev/icons?i=flutter" height="60" alt="flutter logo"  />
+  <img src="https://skillicons.dev/icons?i=godot,rust,flutter,dart,supabase,blender&perline=6" alt="Tech stack: Godot, Rust, Flutter, Dart, Supabase, Blender" />
 </div>
 
+## 📈 Experience
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=50&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+| Technology | Experience | Highlights |
+|------------|------------|------------|
+| **Godot** | 3 years | Released 2 games, available on [itch.io](https://momonoski555.itch.io/) |
+| **Flutter** | 2 years | Cross-platform app development |
+| **Supabase** | Since 2024 | Powers the backend of my business |
+| **Rust** | Since 2023 | Used occasionally, including alongside Godot and in McM |
+
+## 🎮 Games
+
+Play my released games on **[itch.io →](https://momonoski555.itch.io/)**
+
+## 🌱 Currently
+
+- Building and shipping games with Godot
+- Using AI-assisted workflows to move faster without cutting quality
+
+## 📫 Connect
+
+[![itch.io](https://img.shields.io/badge/itch.io-momonoski555-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://momonoski555.itch.io/)
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=80&section=footer&theme=cobalt" width="100%" alt="Footer banner" />
+
 </div>
-
-
-#### my Experince with Godot.
-3 years.
-released 2 games in it.
-check my games in https://momonoski555.itch.io/
-
-#### my Experince with Futter.
-2 years.
-
-#### my Experince with Supabase.
-i use supabase for my business been using it since 2024.
-
-#### my Experince with Rust.
-i have known rust for since 2023, have had used it occasionally ,used it with godot worked fine kind of but i did use it in McM.
-
-
-
-
